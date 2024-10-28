@@ -1,1 +1,0 @@
-user=%7B%22id%22%3A5975158108%2C%22first_name%22%3A%22kuntolu%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22user3c%22%2C%22language_code%22%3A%22id%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=2243079822519621702&chat_type=sender&auth_date=1725579619&hash=0119cce9b271fede8c6007d4566822d870b67f7fae13dcd06033d1e0c6e1ae28
